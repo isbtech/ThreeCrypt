@@ -11,10 +11,9 @@ Module Main
     ' The intention of this program is to encrypt a set group of files
     ' and preserve the folder structure. The encryption is using the 1024
     ' bit implementation of ThreeFish. To preserve minimal RAM overhead,
-    ' this program writes as it encrypts in 1024 byte chunks. Passwords
-    ' are hashed with MurMur2.
+    ' this program writes as it encrypts in 1024 byte chunks.
     ' ------
-    ' If you use of modify this please leave credits to it's origional creator.
+    ' If you use or modify this please leave credits to it's origional creator.
     ' Happy encrypting :^)
     ' ~Killpot
     Dim _hashedPassword, _passwordPath, _folderPath, _outputPath As String
@@ -52,10 +51,10 @@ RePass:
 
         Print("Base64 Encoded Password: " + _hashedPassword, ConsoleColor.Cyan)
         Print("Press any key to continue...") : Console.ReadKey(True)
+RePath:
         Console.Clear()
         Print("Now please select the directory to encrypt...", ConsoleColor.Cyan)
         Using fbd As New FolderBrowserDialog()
-RePath:
             fbd.Description = "Select the directory you wish to encrypt..."
             If fbd.ShowDialog() = DialogResult.OK And My.Computer.FileSystem.DirectoryExists(fbd.SelectedPath) Then
                 Print("Selected path is: " + fbd.SelectedPath, ConsoleColor.Cyan)
@@ -67,10 +66,10 @@ RePath:
             End If
         End Using
         Print("Press any key to continue...") : Console.ReadKey(True)
+ReSave:
         Console.Clear()
         Print("Please select where you would like to output the encrypted data to.", ConsoleColor.Cyan)
         Using sfd As New SaveFileDialog()
-ReSave:
             sfd.Title = "Select the path to save the encrypted data to..."
             sfd.Filter = "Data Files (*.dat)|*.dat|All Files (*.*)|*.*"
 

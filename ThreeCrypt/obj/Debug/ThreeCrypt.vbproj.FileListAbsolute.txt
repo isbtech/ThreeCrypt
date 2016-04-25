@@ -9,3 +9,7 @@ C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj
 C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.exe
 C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.xml
 C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.pdb
+C:\Users\Killpot\Documents\GitHub\ThreeCrypt\ThreeCrypt\bin\Debug\ThreeCrypt.exe.config
+C:\Users\Killpot\Documents\GitHub\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.exe
+C:\Users\Killpot\Documents\GitHub\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.xml
+C:\Users\Killpot\Documents\GitHub\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.pdb
