@@ -1,0 +1,11 @@
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\bin\Release\ThreeCryptStub.exe.config
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\bin\Release\ThreeCryptStub.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\bin\Release\ThreeCryptStub.pdb
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\bin\Release\ThreeCryptStub.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.vbprojResolveAssemblyReference.cache
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.Resources.resources
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.vbproj.GenerateResource.Cache
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCryptStub\obj\Release\ThreeCryptStub.pdb

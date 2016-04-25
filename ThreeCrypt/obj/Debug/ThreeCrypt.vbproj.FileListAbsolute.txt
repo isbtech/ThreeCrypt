@@ -1,0 +1,11 @@
+C:\Users\Killpot\AppData\Local\Temporary Projects\ThreeCrypt\bin\Debug\ThreeCrypt.exe.config
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\Debug\ThreeCrypt.exe.config
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\Debug\ThreeCrypt.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\Debug\ThreeCrypt.pdb
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\Debug\ThreeCrypt.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.vbprojResolveAssemblyReference.cache
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.Resources.resources
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.vbproj.GenerateResource.Cache
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\Debug\ThreeCrypt.pdb

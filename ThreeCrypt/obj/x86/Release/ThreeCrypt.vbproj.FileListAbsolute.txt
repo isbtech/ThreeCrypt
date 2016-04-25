@@ -1,0 +1,10 @@
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\x86\Release\ThreeCrypt.Resources.resources
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\x86\Release\ThreeCrypt.vbproj.GenerateResource.Cache
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\x86\Release\ThreeCrypt.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\x86\Release\ThreeCrypt.exe.config
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\x86\Release\ThreeCrypt.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\x86\Release\ThreeCrypt.pdb
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\x86\Release\ThreeCrypt.xml
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\bin\x86\Release\BouncyCastle.Crypto.dll
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\x86\Release\ThreeCrypt.exe
+C:\Users\Killpot\Documents\Visual Studio 2015\Projects\ThreeCrypt\ThreeCrypt\obj\x86\Release\ThreeCrypt.pdb
